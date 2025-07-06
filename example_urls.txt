@@ -1,0 +1,6 @@
+# Example URLs for FBX Batch Processor
+# Each line should contain a single URL to a zip file containing an FBX and its textures
+
+# Example (uncomment to use):
+# https://example.com/path/to/your/model1.zip
+# https://example.com/path/to/your/model2.zip

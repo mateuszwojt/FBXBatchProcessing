@@ -1,0 +1,16 @@
+{
+  "texture_patterns": {
+    "diffuse": "_BC",
+    "normal": "_N",
+    "opacity": "_O",
+    "metallic": "_M",
+    "roughness": "_R",
+    "ao": "_AO"
+  },
+  "export_settings": {
+    "embed_textures": false,
+    "bake_space_transform": true,
+    "use_selection": false,
+    "apply_scale_options": "FBX_SCALE_ALL"
+  }
+}
