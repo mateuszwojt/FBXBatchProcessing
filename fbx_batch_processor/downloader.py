@@ -1,11 +1,9 @@
 """Download and extract FBX files and textures."""
 import os
 import zipfile
-import tempfile
 import shutil
 import requests
-from pathlib import Path
-from typing import List, Optional, Tuple
+from typing import List, Tuple
 from urllib.parse import urlparse
 
 import tqdm

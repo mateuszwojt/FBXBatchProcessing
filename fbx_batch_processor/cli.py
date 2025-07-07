@@ -3,7 +3,6 @@ import os
 import sys
 import logging
 import argparse
-from pathlib import Path
 from typing import List, Optional
 
 from .processor import FBXProcessor

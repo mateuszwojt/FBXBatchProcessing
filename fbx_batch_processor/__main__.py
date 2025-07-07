@@ -1,6 +1,5 @@
 """Main entry point for the FBX Batch Processor."""
 import sys
-import os
 from pathlib import Path
 
 def main():

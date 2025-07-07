@@ -6,11 +6,9 @@ This script provides a command-line interface to process FBX files with Blender.
 """
 import os
 import sys
-import argparse
 import subprocess
 import tempfile
 import shutil
-from pathlib import Path
 
 def get_blender_executable():
     """Find the Blender executable."""

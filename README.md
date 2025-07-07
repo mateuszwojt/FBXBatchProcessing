@@ -24,10 +24,10 @@ This tool allows you to process FBX files in batch from zip archives downloaded 
 git clone https://github.com/mateuszwojt/FBXBatchProcessing.git
 ```
 
-2. Install dependencies:
+2. Install dependencies into Blender Python environment:
 
 ```bash
-pip install -r requirements.txt
+/path/to/blender/python3.11 -m pip install -r requirements.txt
 ```
 
 ### CLI Usage
